@@ -6,5 +6,8 @@
 ## Read My Accompanying Blog
 - https://www.simongilbert.net/comp-sci-search-algorithms-csharp-dotnetcore/
 
+## Read My Other Blogs
+- https://www.simongilbert.net
+
 ### License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
